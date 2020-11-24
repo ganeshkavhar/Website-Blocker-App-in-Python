@@ -11,7 +11,7 @@ Every operating system has a hosts file. Location of the host file may be differ
 ![image](https://user-images.githubusercontent.com/20369800/100091432-9d9afc80-2e7a-11eb-8eaa-f303ed9c399c.png)
 
 
-### Now Run Program 
+## Now Run Program 
 
 Sorry Not Allowed...
 Sorry Not Allowed...
